@@ -51,9 +51,3 @@ This app is able to search for a city, state/region, or country and exhibit the 
    ```
    npm start
 5. Access the application at http://localhost:3000.
-
-## License 📄
-
-This project is licensed under the [MIT License](LICENSE). 
-
-You are free to use, modify, and distribute this software for personal and commercial purposes, as long as the original license and copyright notice are included. There is no warranty for the code provided, and the author is not liable for any issues arising from the use of this software.
