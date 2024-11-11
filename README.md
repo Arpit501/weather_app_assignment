@@ -36,7 +36,7 @@ This app is able to search for a city, state/region, or country and exhibit the 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/usuario/weather-web-app.git
+   git clone https://github.com/Arpit501/weather_app_assignment.git
 2. Install dependencies:
 
    ```bash
